@@ -1,0 +1,271 @@
+[
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "OFFLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed",
+            "VirusTotal: Offline Skipped"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-12 10:21:26"
+    },
+    {
+        "is_danger": true,
+        "filename": "3bdc4c0637591533f1d4198a72a33426c01f69bd2e15ceee547866f65e26b7ad.zip",
+        "details": {
+            "Mode": "OFFLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed",
+            "VirusTotal: Offline Skipped"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-12 10:21:14"
+    },
+    {
+        "is_danger": true,
+        "filename": "aa94291f9f25c61f4ef1181043c6c402b238774620603716ceea6412a9f29cc5.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-03 22:42:15"
+    },
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-03 22:41:42"
+    },
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-02 09:53:34"
+    },
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-02 09:52:57"
+    },
+    {
+        "is_danger": true,
+        "target": "https://secure.eicar.org/eicar.com",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean",
+            "Google Safe Browsing: Clean"
+        ],
+        "malicious_list": [
+            "VirusTotal: 7 engines detected"
+        ],
+        "timestamp": "2026-02-02 09:44:54"
+    },
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-02 09:41:51"
+    },
+    {
+        "is_danger": true,
+        "filename": "clamwin-0.103.2.1-setup (1).exe",
+        "details": {
+            "Mode": "ONLINE",
+            "MIME": "application/x-msdownload",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-02-02 09:40:36"
+    },
+    {
+        "is_danger": true,
+        "target": "https://secure.eicar.org/eicarcom2.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean"
+        ],
+        "malicious_list": [
+            "VirusTotal: 5 engines detected"
+        ],
+        "timestamp": "2026-01-23 09:33:52"
+    },
+    {
+        "is_danger": true,
+        "target": "https://secure.eicar.org/eicarcom2.zip",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean"
+        ],
+        "malicious_list": [
+            "VirusTotal: 5 engines detected"
+        ],
+        "timestamp": "2026-01-23 09:33:16"
+    },
+    {
+        "is_danger": true,
+        "target": "https://secure.eicar.org/eicar_com.txt",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean"
+        ],
+        "malicious_list": [
+            "VirusTotal: 2 engines detected"
+        ],
+        "timestamp": "2026-01-23 09:33:02"
+    },
+    {
+        "is_danger": true,
+        "target": "https://secure.eicar.org/eicar.com",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean"
+        ],
+        "malicious_list": [
+            "VirusTotal: 8 engines detected"
+        ],
+        "timestamp": "2026-01-23 09:32:45"
+    },
+    {
+        "is_danger": false,
+        "target": "http://testsafebrowsing.appspot.com/s/malware.html",
+        "details": {
+            "Mode": "ONLINE",
+            "Heuristic Flags": 0
+        },
+        "clean_list": [
+            "Heuristic: No suspicious pattern",
+            "YARA URL: Clean"
+        ],
+        "malicious_list": [],
+        "timestamp": "2026-01-23 09:32:22"
+    },
+    {
+        "is_danger": true,
+        "filename": "hinhdong.zip",
+        "details": {
+            "Mode": "OFFLINE",
+            "MIME": "application/zip",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed",
+            "VirusTotal: Offline Skipped"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-01-23 09:31:55"
+    },
+    {
+        "is_danger": true,
+        "filename": "clamwin-0.103.2.1-setup (1).exe",
+        "details": {
+            "Mode": "OFFLINE",
+            "MIME": "application/x-msdownload",
+            "Entropy": "8.00"
+        },
+        "clean_list": [
+            "YARA: Error/Not Installed",
+            "ClamAV: Not Installed",
+            "VirusTotal: Offline Skipped"
+        ],
+        "malicious_list": [
+            "Heuristic: High Entropy (8.00) - Packed/Encrypted"
+        ],
+        "timestamp": "2026-01-23 09:31:40"
+    }
+]
